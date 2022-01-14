@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Devani</h1>
-<h3 align="center">Web Developer Enthusiast</h3>
+<h3 align="center">Web Development Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitdevani17&label=Profile%20views&color=0e75b6&style=flat" alt="ankitdevani17" /> </p>
 
